@@ -1,0 +1,33 @@
+# VS Code settings
+.vscode/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# OS / Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore personal folders (just in case)
+3D Objects/
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Microsoft/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
